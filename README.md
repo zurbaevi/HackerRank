@@ -11,4 +11,4 @@
 # JAVA
 | Subdomain | Challenge | Solution |
 | --- | --- | --- |
-| Introduction |[Welcome to Java!](https://www.hackerrank.com/challenges/30-hello-world/problem) | [WelcomeToJava.java](https://github.com/zurbaevi/codewars/blob/main/src/main/java/com/codewars/kyu6/MostFrequentWeekdays.java) |
+| Introduction |[Welcome to Java!](https://www.hackerrank.com/challenges/30-hello-world/problem) | [WelcomeToJava.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day0WelcomeToJava.java) |
