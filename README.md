@@ -12,3 +12,4 @@
 | Subdomain | Challenge | Solution |
 | --- | --- | --- |
 | Introduction |[Welcome to Java!](https://www.hackerrank.com/challenges/30-hello-world/problem) | [WelcomeToJava.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day0WelcomeToJava.java) |
+| Introduction |[Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [JavaStdinAndStdoutI.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/Java/JavaStdinAndStdoutI.java) |
