@@ -1,4 +1,4 @@
-package com.hackerrank.Java;
+package com.hackerrank.java;
 
 /**
  * @author Nika Zurbaevi
