@@ -6,6 +6,7 @@
 | Day | Challenge | Solution |
 | --- | --- | --- |
 | 0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Day0HelloWorld.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day0HelloWorld.java) |
+| 1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Day1DataTypes.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day1DataTypes.java) |
 
 
 # JAVA
@@ -22,3 +23,5 @@
 | Introduction |[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [JavaEndOfFile.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/introduction/JavaEndOfFile.java) |
 | Introduction |[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [JavaStaticInitializerBlock.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/introduction/JavaStaticInitializerBlock.java) |
 | Introduction |[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [JavaIntToString.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/introduction/JavaIntToString.java) |
+| Introduction |[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [JavaDateAndTime.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/introduction/JavaDateAndTime.java) |
+| Introduction |[Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [JavaCurrencyFormatter.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/introduction/JavaCurrencyFormatter.java) |
