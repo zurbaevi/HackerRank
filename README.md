@@ -8,6 +8,7 @@
 | 0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Day0HelloWorld.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day0HelloWorld.java) |
 | 1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Day1DataTypes.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day1DataTypes.java) |
 | 2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Day2Operators.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day2Operators.java) |
+| 2 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Day3IntroToConditionalStatements.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day3IntroToConditionalStatements.java) |
 
 
 # JAVA
