@@ -12,6 +12,7 @@
 | 2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Day2Operators.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day2Operators.java) |
 | 3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Day3IntroToConditionalStatements.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day3IntroToConditionalStatements.java) |
 | 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Day4ClassVsInstance.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day4ClassVsInstance.java) |
+| 5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Day5Loops.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day5Loops.java) |
 
 
 # JAVA
