@@ -14,7 +14,7 @@
 | 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Day4ClassVsInstance.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day4ClassVsInstance.java) |
 | 5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Day5Loops.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day5Loops.java) |
 | 6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Day6LetsReview.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day6LetsReview.java) |
-| 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Day6LetsReview.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day7Arrays.java) |
+| 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Day7Arrays.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day7Arrays.java) |
 
 
 # JAVA
