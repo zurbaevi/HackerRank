@@ -16,6 +16,7 @@
 | 6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Day6LetsReview.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day6LetsReview.java) |
 | 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Day7Arrays.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day7Arrays.java) |
 | 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Day8DictionariesAndMaps.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day8DictionariesAndMaps.java) |
+| 8 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Day9Recursion3.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day9Recursion3.java) |
 
 
 # JAVA
@@ -48,3 +49,6 @@
 | Big Number |[Java Big Decimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [JavaBigDecimal.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/bignumber/JavaBigDecimal.java) |
 | Big Number |[Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [JavaPrimalityTest.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/bignumber/JavaPrimalityTest.java) |
 | Big Number |[Java Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem) | [JavaBigInteger.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/bignumber/JavaBigInteger.java) |
+| Big Number |[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Java1DArray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/Java1DArray.java) |
+| Big Number |[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Java2DArray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/Java2DArray.java) |
+| Big Number |[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [JavaSubarray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaSubarray.java) |
