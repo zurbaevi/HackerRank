@@ -17,6 +17,7 @@
 | 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Day7Arrays.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day7Arrays.java) |
 | 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Day8DictionariesAndMaps.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day8DictionariesAndMaps.java) |
 | 8 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Day9Recursion3.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day9Recursion3.java) |
+| 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Day10BinaryNumbers.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day10BinaryNumbers.java) |
 
 
 # JAVA
