@@ -19,6 +19,7 @@
 | 8 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Day9Recursion3.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day9Recursion3.java) |
 | 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Day10BinaryNumbers.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day10BinaryNumbers.java) |
 | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Day112DArrays.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day112DArrays.java) |
+| 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Day12Inheritance.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day12Inheritance.java) |
 
 
 # JAVA
