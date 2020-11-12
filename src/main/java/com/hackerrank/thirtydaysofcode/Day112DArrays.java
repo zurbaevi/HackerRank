@@ -2,6 +2,9 @@ package com.hackerrank.thirtydaysofcode;
 
 import java.util.Scanner;
 
+/**
+ * @author Nika Zurbaevi
+ */
 public class Day112DArrays {
     private static final Scanner scanner = new Scanner(System.in);
 
