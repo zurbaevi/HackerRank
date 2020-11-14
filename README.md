@@ -20,6 +20,7 @@
 | 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Day10BinaryNumbers.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day10BinaryNumbers.java) |
 | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Day112DArrays.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day112DArrays.java) |
 | 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Day12Inheritance.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day12Inheritance.java) |
+| 12 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Day13AbstractClasses.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day13AbstractClasses.java) |
 
 
 # JAVA
