@@ -1,9 +1,9 @@
-<p align="center"><a href="https://www.hackerrank.com/zurbaevi_nika"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
-
+# Практикум на HackeRank
+HackerRank - это место, где программисты со всего мира собираются вместе, чтобы решать проблемы в широком диапазоне областей компьютерных наук, таких как алгоритмы, машинное обучение или искусственный интеллект, а также практиковать различные парадигмы программирования, такие как функциональное программирование.
+____
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
-
-
+____
 # 30 DAYS OF CODE
 | Day | Challenge | Solution |
 | --- | --- | --- |
@@ -22,6 +22,7 @@
 | 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Day12Inheritance.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day12Inheritance.java) |
 | 12 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Day13AbstractClasses.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day13AbstractClasses.java) |
 
+____
 
 # JAVA
 | Subdomain | Challenge | Solution |
@@ -56,3 +57,4 @@
 | Data Structures |[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Java1DArray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/Java1DArray.java) |
 | Data Structures |[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Java2DArray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/Java2DArray.java) |
 | Data Structures |[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [JavaSubarray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaSubarray.java) |
+____
