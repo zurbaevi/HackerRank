@@ -23,7 +23,7 @@ ____
 | 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Day13AbstractClasses.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day13AbstractClasses.java) |
 | 14 | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Day14Scope.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day14Scope.java) |
 | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Day15LinkedList.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day15LinkedList.java) |
-| 16 | [Exception String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Day16ExceptionStringToInteger.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day16ExceptionStringToInteger.java) |
+| 16 | [Exceptions String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Day16ExceptionsStringToInteger.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day16ExceptionsStringToInteger.java) |
 
 ____
 
