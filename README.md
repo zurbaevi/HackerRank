@@ -25,6 +25,7 @@ ____
 | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Day15LinkedList.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day15LinkedList.java) |
 | 16 | [Exceptions String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Day16ExceptionsStringToInteger.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day16ExceptionsStringToInteger.java) |
 | 17 | [More Exception](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Day17MoreException.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day17MoreException.java) |
+| 17 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Day18QueuesAndStacks.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day18QueuesAndStacks.java) |
 
 ____
 
