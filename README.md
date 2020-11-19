@@ -62,4 +62,7 @@ ____
 | Data Structures |[Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | [Java1DArray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/Java1DArray.java) |
 | Data Structures |[Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Java2DArray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/Java2DArray.java) |
 | Data Structures |[Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [JavaSubarray.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaSubarray.java) |
+| Data Structures |[Java List](https://www.hackerrank.com/challenges/java-list/problem) | [JavaList.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaList.java) |
+| Data Structures |[Java Arraylist](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | [JavaArraylist.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaArraylist.java) |
+| Data Structures |[Java 1D Array (2 Part)](https://www.hackerrank.com/challenges/java-arraylist/problem) | [Java1DArray2Part.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/Java1DArray2Part.java) |
 ____
