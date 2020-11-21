@@ -28,6 +28,7 @@ ____
 | 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Day18QueuesAndStacks.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day18QueuesAndStacks.java) |
 | 19 | [Interface](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Day19Interface.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day19Interface.java) |
 | 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Day20Sorting.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day20Sorting.java) |
+| 21 | [Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Day22Generics.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day22Generics.java) |
 
 ____
 
