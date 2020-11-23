@@ -30,6 +30,7 @@ ____
 | 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Day20Sorting.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day20Sorting.java) |
 | 21 | [Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Day21Generics.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day21Generics.java) |
 | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Day22BinarySearchTrees.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day22BinarySearchTrees.java) |
+| 23 | [BST Level Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Day23BSTLevelOrderTraversal.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day23BSTLevelOrderTraversal.java) |
 
 ____
 
