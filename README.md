@@ -32,6 +32,7 @@ ____
 | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Day22BinarySearchTrees.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day22BinarySearchTrees.java) |
 | 23 | [BST Level Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Day23BSTLevelOrderTraversal.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day23BSTLevelOrderTraversal.java) |
 | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Day24MoreLinkedLists.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day24MoreLinkedLists.java) |
+| 25 | [Running time and complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Day25RunningTimeAndComplexity.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day25RunningTimeAndComplexity.java) |
 
 ____
 
