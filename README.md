@@ -84,4 +84,7 @@ ____
 | Data Structures |[Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | [JavaStack.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaStack.java) |
 | Data Structures |[Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem) | [JavaBitSet.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaBitSet.java) |
 | Data Structures |[Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | [JavaPriorityQueue.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaPriorityQueue.java) |
+| OOP |[Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [JavaPriorityQueue.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaInheritanceI.java) |
+| OOP |[Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem) | [JavaPriorityQueue.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaInheritanceII.java) |
+| OOP |[Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem) | [JavaPriorityQueue.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/datastructures/JavaAbstractClass.java) |
 ____
