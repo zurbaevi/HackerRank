@@ -35,6 +35,7 @@ ____
 | 25 | [Running time and complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Day25RunningTimeAndComplexity.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day25RunningTimeAndComplexity.java) |
 | 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Day26NestedLogic.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day26NestedLogic.java) |
 | 27 | [Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Day27Testing.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day27Testing.java) |
+| 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Day28RegExPatternsAndIntroToDatabases.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/thirtydaysofcode/Day28RegExPatternsAndIntroToDatabases.java) |
 
 ____
 
