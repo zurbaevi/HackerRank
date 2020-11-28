@@ -1,4 +1,4 @@
-package com.hackerrank.datastructures;
+package com.hackerrank.java.datastructures;
 
 import java.util.BitSet;
 import java.util.Scanner;
