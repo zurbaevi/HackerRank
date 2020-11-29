@@ -1,4 +1,4 @@
-package com.hackerrank.java.oop;
+package com.hackerrank.java.exceptionhandling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
