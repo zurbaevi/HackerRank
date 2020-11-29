@@ -1,4 +1,4 @@
-package com.hackerrank.thirtydaysofcode;
+package com.hackerrank.java.thirtydaysofcode;
 
 /**
  * @author Nika Zurbaevi

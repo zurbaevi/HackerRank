@@ -1,4 +1,4 @@
-package com.hackerrank.thirtydaysofcode;
+package com.hackerrank.java.thirtydaysofcode;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
