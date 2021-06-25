@@ -1,10 +1,15 @@
 ____
+
 # Практикум на HackeRank
 HackerRank - это место, где программисты со всего мира собираются вместе, чтобы решать проблемы в широком диапазоне областей компьютерных наук, таких как алгоритмы, машинное обучение или искусственный интеллект, а также практиковать различные парадигмы программирования, такие как функциональное программирование.
+
 ____
+
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
+* 
 ____
+
 # 30 DAYS OF CODE
 | Day | Challenge | Solution |
 | --- | --- | --- |
@@ -108,4 +113,5 @@ ____
 | Advanced |[Java Varargs Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs) | [JavaVarargsSimpleAddition.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/advanced/JavaVarargsSimpleAddition.java) |
 | Advanced |[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern) | [JavaVisitorPattern.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/advanced/JavaVisitorPattern.java) |
 | Advanced |[Java Prime Checker](https://www.hackerrank.com/challenges/prime-checker) | [PrimeChecker.java](https://github.com/zurbaevi/HackerRank-solutions/blob/main/src/main/java/com/hackerrank/java/advanced/PrimeChecker.java) |
+
 ____
