@@ -7,7 +7,7 @@ ____
 
 * [30 DAYS OF CODE](#30-days-of-code)
 * [JAVA](#java)
-* 
+
 ____
 
 # 30 DAYS OF CODE
